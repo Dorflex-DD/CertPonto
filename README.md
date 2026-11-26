@@ -45,7 +45,7 @@ O CertPonto é para quem precisa revisar e corrigir as marcações de ponto no p
 | ![](telas/pt/novidades.png)<br>Novidades de cada versão | ![](telas/en/credenciais.png)<br>*Saved credentials* |
 
 ## Baixar / Download
-- [Versão mais nova: instalador (.msi, .exe) e portátil (.zip) / Latest version: installer (.msi, .exe) and portable (.zip)](https://github.com/Dorflex-DD/CertPonto/releases/latest)
+- [Versão mais nova: instalador (.msi) e portátil (.zip), sem runtime embutido / Latest version: installer (.msi) and portable (.zip), no bundled runtime](https://github.com/Dorflex-DD/CertPonto/releases/latest)
 
 Windows 10/11 x64 · .NET 11 Desktop Runtime
 
